@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: strapi
+    name: Unnatural Portfolio Strapi Backend
     env: node
     plan: starter
     region: frankfurt
